@@ -9,7 +9,7 @@ import android.util.Log;
 import android.widget.ProgressBar;
 
 import java.util.ArrayList;
-import java.util.HashMap;import rokade.mayur.android.user.R;
+import java.util.HashMap;import rokade.mayur.android.myuser.R;
 
 /**
  * Created by mayur on 10/11/16.

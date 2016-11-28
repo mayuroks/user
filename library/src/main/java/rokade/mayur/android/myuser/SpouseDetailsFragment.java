@@ -7,7 +7,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;import rokade.mayur.android.user.R;
+import android.widget.Button;import rokade.mayur.android.myuser.R;
 
 /**
  * Created by mayur on 10/11/16.

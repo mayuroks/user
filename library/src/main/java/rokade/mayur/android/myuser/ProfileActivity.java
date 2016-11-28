@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;import rokade.mayur.android.user.R;
+import android.widget.Button;import rokade.mayur.android.myuser.R;
 
 /**
  * Created by mayur on 10/11/16.
